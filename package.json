@@ -1,0 +1,27 @@
+{
+  "name": "react-native-pull-to-refresh-component",
+  "version": "1.0.2",
+  "description": "A react native component for pull to refresh functionality for Android/iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "author": "Amjad Hussain",
+  "license": "ISC",
+  "files": [
+    "lib",
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "pull-to-refresh"
+  ]
+}
